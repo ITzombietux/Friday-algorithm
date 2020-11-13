@@ -6,4 +6,4 @@
 //  Copyright © 2020 zombietux. All rights reserved.
 //
 
-print(Int(Character(readLine() ?? "").asciiValue!))
+//print(Int(Character(readLine() ?? "").asciiValue!))
